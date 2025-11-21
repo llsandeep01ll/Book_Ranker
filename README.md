@@ -1,4 +1,4 @@
-# Book World
+# BookRanker
 
 ![Homepage](https://github.com/user-attachments/assets/38a2e4dc-63ff-40f0-aeaf-c16346910c15)
 
@@ -85,8 +85,8 @@ If you don't have Cloudinary, you can replace `cloudStorage` with `diskStorage` 
 #### Clone the Repository
 
 ```shell
-git clone https://github.com/manoj10211021/book-world.git
-cd book-world
+git clone https://github.com/llsandeep01ll/Book_Ranker.git
+cd book-world-main
 ```
 
 #### Install packages
