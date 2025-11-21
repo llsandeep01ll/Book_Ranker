@@ -1,6 +1,7 @@
 # BookRanker
 
-![Homepage](https://github.com/user-attachments/assets/38a2e4dc-63ff-40f0-aeaf-c16346910c15)
+![Homepage](<img width="1908" height="920" alt="image" src="https://github.com/user-attachments/assets/f62f83dc-da5a-4b89-8bcc-d1d9a71b89ce" />
+)
 
 A full-featured book review and management application built with the MERN stack (`MongoDB`, `Express`, `React`, `Node.js`). Users can browse books, leave reviews with star ratings, and manage their favorites. Admins have extended capabilities for adding, editing, and deleting books, as well as managing user data and access.
 
@@ -119,10 +120,14 @@ Now open `localhost:5173` on your browser
 
 ## Screenshots
 
-![Tableview](https://github.com/user-attachments/assets/fc31a622-855d-42de-bb24-c428eb0cefad)
-![All Users](https://github.com/user-attachments/assets/26d2272a-9e45-458f-8b6e-cab9cf66feb3)
-![Favourites](https://github.com/user-attachments/assets/b598d66d-62d4-45cb-8e9a-1dcb1a676171)
-![Details1](https://github.com/user-attachments/assets/eb43c690-6f39-47dd-a4d3-93f2f182aa6f)
-![Details2](https://github.com/user-attachments/assets/25edce3f-8490-4402-9521-08cc8c8bff7a)
-![Details3](https://github.com/user-attachments/assets/e92cb54f-54b9-4b55-9de7-442e79dc9a9f)
-![User](https://github.com/user-attachments/assets/5a28ee33-e380-49bb-af1a-e2b212d9887a)
+![Tableview](<img width="1895" height="910" alt="image" src="https://github.com/user-attachments/assets/73624869-df6b-4811-86ce-4559a2174412" />
+)
+![All Users](<img width="1898" height="911" alt="image" src="https://github.com/user-attachments/assets/89ad10a4-5417-412c-903c-ddb07687c33c" />
+)
+![Favourites](<img width="1903" height="915" alt="image" src="https://github.com/user-attachments/assets/7ec27cb9-37e8-40c1-80c6-a2b07d571790" />
+)
+![Details1](<img width="1886" height="916" alt="image" src="https://github.com/user-attachments/assets/eee8471d-6629-4c2b-bd1e-b0d6c85c9610" />
+)
+![Details2](<img width="1879" height="902" alt="image" src="https://github.com/user-attachments/assets/d3fcbdf4-f4bf-4c73-b47f-ee4370b9541e" />
+)
+
